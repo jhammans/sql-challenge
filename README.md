@@ -23,6 +23,6 @@ To deploy this project
 
 ```bash
 #Clone the repository
-git clone https://github.com/DavidnBui/sql-challenge.git
+git clone https://github.com/jhammans/sql-challenge.git
 cd sql-challenge
 ```
